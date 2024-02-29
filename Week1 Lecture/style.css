@@ -1,0 +1,44 @@
+body {
+    background-color: cyan;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+}
+
+div {
+    padding: 10px;
+}
+
+a {
+    display: grid;
+    flex-direction: row;
+    text-align: center;
+    padding: auto;
+}
+
+p {
+    font-size: medium;
+    color: green;
+    text-align: left;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    color: blue;
+    padding: 5%;
+    background-color: aquamarine;
+    position: fixed;
+    align-self: right;
+}

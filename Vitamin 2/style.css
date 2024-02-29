@@ -1,0 +1,31 @@
+html {
+    font-family: Comic Sans MS, Arial, sans-serif;
+}
+
+h1, h2 {
+    font-family: Papyrus;
+    color: purple;
+}
+
+ul {
+    list-style-type: none;
+    background-color: grey;
+    color: black;
+}
+
+li {
+    display: inline-block;
+    padding: 16px;
+    color: black;
+}
+
+li:hover {
+    background-color: #aaa;
+}
+
+footer {
+    background-color: #ddd;
+    color: #555;
+    padding: 16px;
+    text-align: center;
+}
